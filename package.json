@@ -1,0 +1,25 @@
+{
+  "name": "render-fixie-socks5-pg-test",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/mauricioschneider/render-fixie-socks5-pg-test#readme",
+  "bugs": {
+    "url": "https://github.com/mauricioschneider/render-fixie-socks5-pg-test/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mauricioschneider/render-fixie-socks5-pg-test.git"
+  },
+  "license": "ISC",
+  "author": "Mauricio Schneider",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "pg": "^8.16.3",
+    "socksjs": "^0.5.0"
+  }
+}
